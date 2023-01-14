@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@drawable/navigation_menu_bg"
+    android:gravity="bottom">
+
+    <ImageView
+        android:id="@+id/profile_picture"
+        android:layout_width="124dp"
+        android:layout_height="113dp"
+        android:layout_marginStart="15dp"
+        android:src="@drawable/dipxa_second_logo"
+        tools:ignore="InvalidId" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginBottom="15dp"
+        android:fontFamily="@font/lato_bold"
+        android:text="Welcome To Dipxa Technology"
+        android:textColor="@color/white"
+        android:textSize="25sp" />
+
+</LinearLayout>

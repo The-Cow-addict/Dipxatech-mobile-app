@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable-v24/cart_button_bg.xml" value="0.2705" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable-v24/ic_cart.xml" value="0.1975" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable-v24/ic_filter.xml" value="0.2705" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable-v24/ic_search.xml" value="0.2705" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.276" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable-v24/search_bg.xml" value="0.276" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/add_to_cart_button.xml" value="0.27" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/arrowback_btn.xml" value="0.13" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/custom_button.xml" value="0.158" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/detail_page_bg.xml" value="0.211" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/edit_text_bg.xml" value="0.1425" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/home_icon.xml" value="0.257" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/ic_back.xml" value="0.211" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/ic_facebook_logo.xml" value="0.1965" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/ic_more.xml" value="0.211" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/ic_settings_24.xml" value="0.211" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/ic_settings_black.xml" value="0.211" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/input_background.xml" value="0.245" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/minus_button.xml" value="0.27" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/onboard_indicator.xml" value="0.1" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/onboard_indicator_active.xml" value="0.1" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/onboard_indicator_inactive.xml" value="0.1" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/drawable/plus_button.xml" value="0.189" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/font/rubik.xml" value="0.3046875" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_contact_us.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_detail.xml" value="0.271286231884058" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_edit_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_introduction.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_main.xml" value="0.27355072463768115" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_onboarding.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/activity_setting.xml" value="0.16458333333333333" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/fragment_logo.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/fragment_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/fragment_splash_screen.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/header.xml" value="0.2703125" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/item_container_onboard.xml" value="0.2734375" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/items_onboard.xml" value="0.2734375" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/login_tab_fragment.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/onboard_item_container.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/recommended_items.xml" value="0.2644927536231884" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/signup_fragment.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/layout/signup_tab_fragment.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/menu/main_menu.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/chanj/AndroidStudioProjects/DipxaTechnology/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/drawable/add_to_cart_button.xml" value="0.1295" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/drawable/buy_button.xml" value="0.1295" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail10.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail3.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail4.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail5.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail6.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail7.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail8.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_detail9.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_edit_profile.xml" value="0.2" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_introduction.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_loading_buying.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_payment.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_profile.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/header.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/items_onboard.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/chanj/Downloads/DipxaTechnology/app/src/main/res/layout/recommended_items.xml" value="0.2" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/active_writable_database.xml" value="0.264" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/activity_detail.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/activity_edit_profile.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/activity_register.xml" value="0.176" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/header.xml" value="0.72" />
+        <entry key="..\:/Users/new asus/Desktop/DipxaTechnology/app/src/main/res/layout/recommended_items.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
